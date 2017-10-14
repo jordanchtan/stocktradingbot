@@ -13,3 +13,4 @@ trader.c makes api calls using curl.
 algorithm.c contains an implmentation of the chosen strategy and outputs various information in both the terminal 
 and produces an output log to keep track of trades made.
 cJSON.c is an installed library
+"# stocktradingbot" 
